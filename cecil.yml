@@ -32,7 +32,7 @@ docsearch:
 
 # Cecil config for Statidocs
 theme:
-  - docs
+  - null
   - pwa
   - redirects
   - headers
